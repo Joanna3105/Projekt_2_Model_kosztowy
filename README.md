@@ -40,6 +40,6 @@ Projekt dotyczy analizy kosztów w układzie:
 - dashboard.xls
 - dane.xls
 - zrzuty ekranu dashboardu.pdf
-#### Do projektu dołączyłam również wnioski, pokazując szerzej swoją interpretację otrzymanych wyników - są one aktualne dla danego zestawu danych.
+#### Do projektu dołączyłam również wnioski, pokazując szerzej swoją interpretację otrzymanych wyników - są one aktualne na obecny stan danych.
 
 
